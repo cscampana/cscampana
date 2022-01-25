@@ -1,7 +1,7 @@
-Hi, thank you for coming to my GitHub page. I'm currently a student at the University of California, San Diego pursuing a bachelors degree in Mathematics-Computer Science. My interests are in: Data Science, Data Analysis, and Machine Learning.
+Hi, thank you for coming to my GitHub page. I'm currently a student at the **University of California, San Diego**, pursuing a bachelor's degree in Mathematics-Computer Science. My interests are in Data Science, Data Analysis, and Machine Learning.
 
 ### My Motivation
-Do something great! That is the phrase plastered in my phone's background for the last couple of years. Marvelous things did not come from short bursts of luck or success but rather through constant effort and willpower. Ralph Waldo Emerson said: "Life is a succession of lessons which must be lived to be understood" we must strive to learn and never repeat our mistakes. What amazes me about mathematics is that being wrong is part of the process. However, you learn from those mistakes, accumulate knowledge, and apply it to novel problems.
+Do something great! That is the phrase plastered in my phone's background for the last couple of years. Marvelous things did not come from short bursts of luck or success but rather through constant effort and willpower. Ralph Waldo Emerson said: *"Life is a succession of lessons which must be lived to be understood"* we must strive to learn and never repeat our mistakes. What amazes me about mathematics is that being wrong is part of the process. However, you learn from those mistakes, accumulate knowledge, and apply it to novel problems.
 
 ### Social Media
 [![Kaggle](https://github.com/cscampana/cscampana/blob/main/kaggle.png)][1]
