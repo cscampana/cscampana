@@ -1,7 +1,7 @@
 ![Header](https://github.com/cscampana/cscampana/blob/main/1627280988411.jpg) 
 
 
-Hi, thank you for coming to my GitHub page. I'm currently a student at the **University of California, San Diego**, pursuing a bachelor's degree in Mathematics-Computer Science.
+Hi, thank you for visiting my GitHub page. I'm currently a student at the **University of California, San Diego**, pursuing a bachelor's degree in Mathematics-Computer Science.
 
 ⚡Ask me about Data Science, Data Analysis, and Machine Learning. 
 
