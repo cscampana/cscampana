@@ -1,3 +1,4 @@
+[Header](https://github.com/cscampana/cscampana/blob/main/1627280988411.jpg)
 Hi, thank you for coming to my GitHub page. I'm currently a student at the **University of California, San Diego**, pursuing a bachelor's degree in Mathematics-Computer Science. My interests are in Data Science, Data Analysis, and Machine Learning.
 
 ### My Motivation
