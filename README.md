@@ -9,7 +9,7 @@ My name is Caike Salles Campana (He/Him/His). I'm currently a student at the **U
 
 🔭Feel free to reach out with cool projects. I am always eager to **collaborate**!
 
-📫Send me an **[email](csallesc@ucsd.edu)** or visit my **[website](https://www.ccampana.tech)** for more information about me and my projects.
+📫Send me an **[email](mailto:csallesc@ucsd.edu)** or visit my **[website](https://www.ccampana.tech)** for more information about me and my projects.
 
 ### My Motivation
 Do something great! That is the phrase plastered in my phone's background for the last couple of years. Marvelous things did not come from short bursts of luck or success but rather through constant effort and willpower. Ralph Waldo Emerson said: *"Life is a succession of lessons which must be lived to be understood"* we must strive to learn and never repeat our mistakes. What amazes me about mathematics is that being wrong is part of the process. However, you learn from those mistakes, accumulate knowledge, and apply it to novel problems.
