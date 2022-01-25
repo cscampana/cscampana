@@ -1,5 +1,13 @@
-[Header](https://github.com/cscampana/cscampana/blob/main/1627280988411.jpg)
-Hi, thank you for coming to my GitHub page. I'm currently a student at the **University of California, San Diego**, pursuing a bachelor's degree in Mathematics-Computer Science. My interests are in Data Science, Data Analysis, and Machine Learning.
+![Header](https://github.com/cscampana/cscampana/blob/main/1627280988411.jpg) 
+
+
+Hi, thank you for coming to my GitHub page. I'm currently a student at the **University of California, San Diego**, pursuing a bachelor's degree in Mathematics-Computer Science.
+
+⚡Ask me about Data Science, Data Analysis, and Machine Learning. 
+
+📫Feel free to reach out with cool projects. I am always eager to **collaborate**!
+
+Send me an **[email](csallesc@ucsd.edu)** or visit my **[website](https://www.ccampana.tech)** for more information about me and my projects.
 
 ### My Motivation
 Do something great! That is the phrase plastered in my phone's background for the last couple of years. Marvelous things did not come from short bursts of luck or success but rather through constant effort and willpower. Ralph Waldo Emerson said: *"Life is a succession of lessons which must be lived to be understood"* we must strive to learn and never repeat our mistakes. What amazes me about mathematics is that being wrong is part of the process. However, you learn from those mistakes, accumulate knowledge, and apply it to novel problems.
@@ -11,6 +19,8 @@ Do something great! That is the phrase plastered in my phone's background for th
 [![Instagram](https://github.com/cscampana/cscampana/blob/main/instagram.png)][4]
 [![Medium](https://github.com/cscampana/cscampana/blob/main/medium.png)][5]
 
+
+![Header](https://github.com/cscampana/cscampana/blob/main/Geisel-Library-UCSanDiego-ErikJepsen.jpg) 
 <!--
 **cscampana/cscampana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
